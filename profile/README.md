@@ -1,4 +1,4 @@
-## C2C Team
+## C2C Foundation
 
 🥽 Our team is a group of developers dedicated to the development of the c2c programming language 🥽
 
